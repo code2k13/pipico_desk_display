@@ -1,4 +1,7 @@
 # Pi Pico Desk Display
+![Final Product (Front side)](images/finished_product.jpg)
+
+
 This repository contains PCB schematics for creating a small desk display using Raspberry Pi Pico and  1.8 inch  SPI TFT LCD. 
 
 
@@ -10,8 +13,6 @@ This repository contains PCB schematics for creating a small desk display using 
 ![Fabricated PCB](images/fabricated_pcb.jpg)
 Fabricated PCB
 
-![Final Product (Front side)](images/finished_product.jpg)
-Final Product (Front side)
 
 ![Final Product (Back side)](images/back_side.jpg)
 Final Product (Back side)
