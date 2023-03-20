@@ -7,7 +7,7 @@ This repository contains PCB schematics for creating a small desk display using 
 * [Fritzing Project](pi_pico_tft_display_pcb.fzz )
 * [Gerber Files](gerber_files/)
 
-
+For information on assembling the project, please visit : https://ashishware.com/2023/03/17/pipico_desk_display/
 ## License (for schematics and artwork)
 
 © 2023 Ashish Patil
