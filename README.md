@@ -3,8 +3,8 @@
 
 This repository contains PCB schematics for creating a small desk display using Raspberry Pi Pico and  1.8 inch  SPI TFT LCD. 
 
-* [Fritzing Project](pi_pico_tft_display_pcb.fzz ) , [Gerber Files](gerber_files/)
-* [STL files for printing the case](desk_display_case.stl) , [Link to Tinkercad project](https://www.tinkercad.com/things/2sQCRFoyv3b)
+* PCB Schematics : [Fritzing Project](pi_pico_tft_display_pcb.fzz ) and  [Gerber Files](gerber_files/)
+* Case Design : [STL files for printing the case](desk_display_case.stl) and [Link to Tinkercad project](https://www.tinkercad.com/things/2sQCRFoyv3b)
 
 
 
