@@ -34,10 +34,4 @@ For more information, please refer to the [Creative Commons website](https://cre
 
 ## Images
 
-![Fabricated PCB](images/fabricated_pcb.jpg)<br/>
-Fabricated PCB
-
-
-![Final Product (Back side)](images/back_side.jpg )<br/>
-Final Product (Back side)
-
+![Photos of the project](images/desk_display_collage.png)
