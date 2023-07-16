@@ -35,3 +35,6 @@ For more information, please refer to the [Creative Commons website](https://cre
 ## Images
 
 ![Photos of the project](images/desk_display_collage.png)
+
+Adding long headers enables breadboarding other components with the display and opens up multitude of possibilities
+![Photo of breadboard connected using long header](images/long_headers.jpg)  
